@@ -1,8 +1,11 @@
-streamlit
-selenium
 webdriver-manager
 pandas
 lxml
 plotly
 chromium
 chromium-driver
+streamlit
+selenium
+pandas
+lxml
+plotly
