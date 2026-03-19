@@ -1,5 +1,6 @@
 streamlit
-pandas
 selenium
-plotly
+webdriver-manager
+pandas
 lxml
+plotly
